@@ -1,0 +1,47 @@
+PRODUCT_KNOWLEDGE_MAP (Last Updated: 2025-03-09)
+
+Product Name: DrNote.co
+Tagline: The Ultimate Qbank for Saudi Licensing Exams
+
+Core Value Proposition:
+DrNote.co provides a high-quality question bank (Qbank) specifically designed for healthcare professionals preparing for Saudi Commission for Health Specialties (SCFHS) licensing exams. 
+It covers SMLE, SDLE, SPLE, SLLE, Family Medicine, Internal Medicine, and more. 
+DrNote offers expertly crafted MCQs, last-minute review questions, and prep notes to maximize success.
+
+Target Users:
+- Medical students
+- Doctors
+- Pharmacists
+- Dentists
+- Healthcare professionals preparing for SCFHS exams
+
+Key Benefits:
+- Comprehensive Coverage: Thousands of high-yield MCQs for SMLE, SDLE, SPLE, SLLE, and specialty exams.
+- 360-Degree Exam Prep: Includes MCQs, last-minute review one-liners, and detailed prep notes.
+- Updated Content: Regularly updated with the latest exam patterns and recall-based questions.
+- Expert-Verified Questions: Curated and reviewed by experienced medical educators and specialists.
+- AI-Powered Insights: Provides AI-generated explanations and adaptive learning paths.
+- User-Friendly Platform: Mobile-responsive and easy-to-navigate interface for seamless study.
+
+Exams Covered:
+- Medical: SMLE, Family Medicine Exam, Internal Medicine Board Exam
+- Dental: SDLE
+- Pharmacy: SPLE
+- Laboratory: SLLE
+
+Features:
+- Qbank with 10,000+ Questions (MCQs, Case-Based, One-Liners, Image-Based)
+- Adaptive Learning with AI-powered recommendations
+- Full-Length Exam Simulations
+- Performance Analytics
+- Mobile Optimized for study on the go
+
+Subscription Plans:
+- Free: Limited access to select questions and features.
+- Premium: Full access to Qbank, explanations, analytics, and AI recommendations.
+- Institutional: Custom plans for universities and training centers.
+
+Website: https://drnote.co
+Contact: support@drnote.co
+Twitter: https://twitter.com/_drnote
+Instagram: https://instagram.com/drnote

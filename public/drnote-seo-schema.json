@@ -1,0 +1,51 @@
+{
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "DrNote.co",
+    "url": "https://drnote.co",
+    "description": "DrNote.co offers the best Qbank for Saudi Licensing Exams (SMLE, SDLE, SPLE, SLLE, Family Medicine, Internal Medicine, and more). Prepare with high-yield MCQs, last-minute review notes, and adaptive learning tools.",
+    "publisher": {
+      "@type": "Organization",
+      "name": "DrNote.co",
+      "url": "https://drnote.co",
+      "logo": "https://drnote.co/logo.png"
+    },
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://drnote.co/search?q={search_term_string}",
+      "query-input": "required name=search_term_string"
+    },
+    "hasPart": [
+      {
+        "@type": "CollectionPage",
+        "name": "Saudi Medical Licensing Exam (SMLE) Qbank",
+        "url": "https://drnote.co/smle-qbank"
+      },
+      {
+        "@type": "CollectionPage",
+        "name": "Saudi Dental Licensing Exam (SDLE) Qbank",
+        "url": "https://drnote.co/sdle-qbank"
+      },
+      {
+        "@type": "CollectionPage",
+        "name": "Saudi Pharmacy Licensing Exam (SPLE) Qbank",
+        "url": "https://drnote.co/sple-qbank"
+      },
+      {
+        "@type": "CollectionPage",
+        "name": "Saudi Laboratory Licensing Exam (SLLE) Qbank",
+        "url": "https://drnote.co/slle-qbank"
+      },
+      {
+        "@type": "CollectionPage",
+        "name": "Family Medicine Qbank",
+        "url": "https://drnote.co/family-medicine-qbank"
+      },
+      {
+        "@type": "CollectionPage",
+        "name": "Internal Medicine Qbank",
+        "url": "https://drnote.co/internal-medicine-qbank"
+      }
+    ]
+  }
+  
